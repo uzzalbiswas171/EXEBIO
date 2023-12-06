@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344708213753",
+    "project_id": "exebio-7e268",
+    "storage_bucket": "exebio-7e268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344708213753:android:e9cc6dacf367d12dbeab28",
+        "android_client_info": {
+          "package_name": "com.example.exebio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHRrewjkXmTv5Kl71ohNX-Wpr_0d13xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344708213753:android:f6e6342f798b4305beab28",
+        "android_client_info": {
+          "package_name": "com.example.exebiof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHRrewjkXmTv5Kl71ohNX-Wpr_0d13xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
